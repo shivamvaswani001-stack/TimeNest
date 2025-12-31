@@ -1,4 +1,3 @@
-# TimeNest
 # TimeNest ⏱️
 
 TimeNest is a lightweight Discord bot that helps users track focused study sessions and view daily summaries.
